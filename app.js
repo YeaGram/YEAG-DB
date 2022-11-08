@@ -1,5 +1,5 @@
-import TMDB_Handler from "/script/TMDB/TMDB-handler.js";
-import TMDB_Config from "/script/TMDB/TMDB-config.js";
+import TMDB_Handler from "./script/TMDB/TMDB-handler.js";
+import TMDB_Config from "./script/TMDB/TMDB-config.js";
 
 const container = document.querySelector(".CardContainer");
 
